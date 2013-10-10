@@ -9,6 +9,8 @@ google_analytics_id: UA-2196462-7
 links:
   - name:         About
     url:          /about
+  - name:         Feed
+    url:          /feed.xml
   - name:         Blog
     url:          http://chloerei.com
     external:     true
