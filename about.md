@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About
+disqus: false
 ---
 
-## Create by Muan
+## Create by Mu-An
 
 Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
 
