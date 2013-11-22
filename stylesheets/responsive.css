@@ -9,12 +9,4 @@
     body #container #ind-instagram, body #container #ind-linkedin {
       display: none; }
     body #container .links, body #container .content {
-      padding: 15px; }
-      body #container .links section.post > *, body #container .content section.post > * {
-        margin-left: -15px;
-        margin-right: -15px;
-        padding: 0 15px; }
-      body #container .links section.post > ul, body #container .links section.post > ol, body #container .content section.post > ul, body #container .content section.post > ol {
-        margin-left: -15px;
-        margin-right: -15px;
-        padding: 0 30px; } }
+      padding: 15px; } }
