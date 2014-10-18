@@ -1,25 +1,23 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
-url:              # Site url.
+title:            Payssion
+description:      一站式全球收款解决方案
+url:              https://www.payssion.com
 baseurl:          # Base url. ( if use subdirectory-like URL )
-signoff:          Scribble # Your name.
+signoff:          payssion # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 google_analytics_id: # set tracking, UA-XXXX-Y.
 
 links:
-  - name:         About
-    url:          /about
-  - name:         Feed
-    url:          /feed.xml
+  - name:         Payssion首页
+    url:          https://www.payssion.com
+    external:     true
+  - name:         全球收款解决方案
+    url:          https://payssion.com/cn/globalpayments.html
+    external:     true
+  - name:         关于我们
+    url:          https://payssion.com/cn/about.html
+    external:     true
   - name:         Blog
-    url:          http://chloerei.com
-    external:     true
-  - name:         Email
-    url:          mailto:chloerei@gmail.com
-    external:     true
-  - name:         GitHub
-    url:          http://github.com/chloerei/scribble
-    external:     true
+    url:          /
 
 pygments:         true
 permalink:        pretty
