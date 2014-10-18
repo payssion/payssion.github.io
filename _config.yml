@@ -7,6 +7,8 @@ disqus_shortname: # disqus comment thread for post header options. ( leave blank
 google_analytics_id: # set tracking, UA-XXXX-Y.
 
 links:
+  - name:         Blog
+    url:          /
   - name:         Payssion首页
     url:          https://www.payssion.com
     external:     true
@@ -16,8 +18,7 @@ links:
   - name:         关于我们
     url:          https://payssion.com/cn/about.html
     external:     true
-  - name:         Blog
-    url:          /
+
 
 pygments:         true
 permalink:        pretty
