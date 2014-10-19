@@ -4,6 +4,7 @@ title: 欧洲支付sofortbanking
 ---
 
 ![欧洲本地支付sofortbanking](/images/sofort.png)
+
 **sofortbanking**，又被称作**sofortüberweisung**，是欧洲一种在线银行转账支付方式，支持德国，奥地利，比利时，荷兰，瑞士，波兰，英国以及意大利等国家的银行转账支付，目前已经有超过3万家商家集成了sofortbanking支付，覆盖电商，航空，以及各种在线服务类行业，比如DELL，Skype, facebook，KLM Royal Dutch Airlines，Emirates等都支持sofortbanking支付，另外[中国航空](http://www.airchina.de/de/aboutus/airchinanews/2012/20120627.html "中国航空sofortbanking支付")在2012年也支持了sofortbanking支付。
 
 很多人可能会纳闷欧洲应该使用信用卡或者paypal比较多，为什么还需要sofortbanking呢？我们先来看看sofortbanking的alexa流量：
