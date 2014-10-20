@@ -3,7 +3,7 @@ layout: post
 title: 俄罗斯本地支付Yandex.Money
 ---
 
-![俄罗斯本地支Yandex.Money](https://www.payssion.com/static/images/payment/pay_yandex.jpg)
+![俄罗斯本地支付Yandex.Money](https://www.payssion.com/static/images/payment/pay_yandex.jpg)
 
 Payssion所支持的俄罗斯本地支付方式再次增加！目前，Payssion已与俄罗斯第二大支付公司"Yandex.Money"达成战略合作。
 
@@ -13,7 +13,7 @@ Yandex.Money是俄罗斯Yandex旗下的电子支付工具，买家注册后，�
 
 **Yandex.Money支付特点**
 > - **充值方便，实时到账；**
-> 可通过支付终端、电子货币、预付卡和银行转账（银行卡）等方式向钱包内充值，实时到账
+> 可通过支付终端、电子货币、预付卡和银行转账（银行卡）等方式向钱包内充值，实时到账。
 > - **无Chargeback风险；**
 > - **支持多币种交易；**
 > 目前支持欧元、美元、卢布三种货币进行支付，且每笔交易不能超过10000美金。
@@ -24,14 +24,14 @@ Yandex.Money是俄罗斯Yandex旗下的电子支付工具，买家注册后，�
 **如何使用Yandex.Money进行支付呢？**
 
  1. 选择Yandex.Money支付方式，点击支付按钮；
- ![Yandex.Money、俄罗斯Yandex.Money](http://blog.payssion.com/images/yandex_1.png) 
+ ![Yandex.Money、俄罗斯Yandex.Money](/images/yandex_1.jpg) 
  2. 输入Yandex.Money的账户名和密码；
- ![Yandex.Money支付方式、俄罗斯Yandex.Money](http://blog.payssion.com/images/yandex_2.png) 
+ ![Yandex.Money支付方式、俄罗斯Yandex.Money](/images/yandex_2.jpg) 
  3. 输入你的支付密码，通过使用电子钱包余额进行支付；
 如果选择关联的银行卡进行支付，用户必须先绑定银行卡，然后进行支付。
- ![如何接入Yandex.Money、俄罗斯Yandex.Money](http://blog.payssion.com/images/yandex_3.png) 
+ ![如何接入Yandex.Money、俄罗斯Yandex.Money](/images/yandex_3.jpg) 
  4. 支付成功！
- ![Yandex.Money支付方式、俄罗斯Yandex.Money](http://blog.payssion.com/images/yandex_4.png) 
+ ![Yandex.Money支付方式、俄罗斯Yandex.Money](/images/yandex_4.jpg) 
 
 
 **如何接入Yandex.Money？**
