@@ -6,9 +6,9 @@ title: 欧洲本地支付paysafecard
 ![paysafecard游戏支付](/images/logo_paysafecard.png)
 
 **paysafecard**主是欧洲比较流行的预付卡支付方式，但不仅可以在欧洲37个国家可以购买，在澳大利亚，以及北美南美等地区都可以买到，paysafecard在全球范围有45万个销售网店，用户可以在超过4000家在线商店使用paysafecard支付，可以说是全球范围的一种支付方式了。
-paysafecard主要用于购买虚拟类产品，比如**游戏充值**，skype充值等。国内也有很多销售到欧美的游戏币交易网站很多也已经支持paysafecard支付，比如[offergamers](http://www.offgamers.com)，[igxe](http://www.igxe.com)，[igvalut](http://www.igvalut.com) (google搜索关键词：buy game coins，buy fifa coins， buy wow coins，可以找到很多销售游戏币的网站，而这些游戏比交易网站很多都是人国内公司/团队运营的)。
-由于很多玩家没有信用卡或者银行账户，可以说如果想要把游戏币或者游戏装备卖给老外，paysafecard是一个不可或缺的支付方式。
+paysafecard主要用于购买虚拟类产品，比如**游戏充值**，skype充值等。国内很多销售到欧美的游戏币交易网站很多也已经支持paysafecard支付，比如[offergamers](http://www.offgamers.com)，[igxe](http://www.igxe.com)，[igvalut](http://www.igvalut.com) (google搜索关键词：buy game coins，buy fifa coins， buy wow coins，可以找到很多销售游戏币的网站，而这些游戏比交易网站很多都是人国内公司/团队运营的)。
 
+由于很多玩家没有信用卡或者银行账户，可以说如果想要把游戏币或者游戏装备卖给老外，paysafecard是一个不可或缺的支付方式。
 用户可以在线下销售网店或者在线商店购买paysafecard，用户会得到16位的PIN码，支付时候只需要输入这个16的PIN码即可，paysafecard的面值一般在10欧元到100欧元之间，对于大额交易用户可以使用多张卡组合最高不超过1000欧元。
 
 用户选择paysafecard支付后会跳转到下面的付款页面：
