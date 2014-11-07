@@ -3,8 +3,10 @@ layout: post
 title: 速卖通开通拉美支付mercadopago
 ---
 
-。阿里巴巴旗下速卖通和拉美支付公司mercadopago达成合作，墨西哥的买家将可以使用mercadopago支付方式在速卖通上购物。这是继巴西boleto支付，巴西TEF支付后，
+阿里巴巴旗下速卖通和拉美支付公司mercadopago达成合作，墨西哥的买家将可以使用mercadopago支付方式在速卖通上购物。这是继巴西boleto支付，巴西TEF支付后，
 速卖通赶在双十一大促之前对拉美地区再次增加新的支付方式，足见速卖通对拉美市场的重视。
+![速卖通接入拉美支付mercadopago](/images/aliexpress_mercadopago.png)
+
 
 mercadopago是拉美一家支付公司，是ebay旗下的一家公司，在Argentina, Brazil, Chile, Colombia, Mexico and Venezuela这六个国家均开展支付业务。
 
